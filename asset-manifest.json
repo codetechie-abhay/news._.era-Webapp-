@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/news._.era-Webapp-/static/css/main.915d67b3.css",
+    "main.js": "/news._.era-Webapp-/static/js/main.61c4248d.js",
+    "static/js/787.7a4db7a9.chunk.js": "/news._.era-Webapp-/static/js/787.7a4db7a9.chunk.js",
+    "index.html": "/news._.era-Webapp-/index.html",
+    "main.915d67b3.css.map": "/news._.era-Webapp-/static/css/main.915d67b3.css.map",
+    "main.61c4248d.js.map": "/news._.era-Webapp-/static/js/main.61c4248d.js.map",
+    "787.7a4db7a9.chunk.js.map": "/news._.era-Webapp-/static/js/787.7a4db7a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.915d67b3.css",
+    "static/js/main.61c4248d.js"
+  ]
+}
