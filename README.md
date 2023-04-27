@@ -4,7 +4,7 @@
 
 + An API (Application Programming Interface) is a set of rules and protocols that specifies how different software components should interact with each other. APIs are used to allow different applications to communicate with each other and share data, resources, or functionalities.
 
-<img src="./public/images/Napi.png" alt="Alt text" title="Optional title">
+<img src="./src/Napi.png" alt="Alt text" title="Optional title">
 <br />
 <br />
 
@@ -29,7 +29,7 @@
 
 With React JS, developers can create reusable UI components and use them to build complex interfaces for web applications. React JS uses a declarative approach, which means developers define what they want to see on the UI, and React takes care of updating the UI when the underlying data changes.
 
-<img src="./public/images/withapi.png" alt="Alt text" title="Optional title">
+<img src="./src/withapi.png" alt="Alt text" title="Optional title">
 <br /><br />
 
 ## **React DOM**
